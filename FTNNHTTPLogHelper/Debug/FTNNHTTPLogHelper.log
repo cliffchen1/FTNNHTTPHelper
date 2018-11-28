@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/11/28 16:51:19。
+     1>项目“c:\Users\admin\documents\visual studio 2013\Projects\FTNNHTTPLogHelper\FTNNHTTPLogHelper\FTNNHTTPLogHelper.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\PC配置文件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FTNNHTTPLogHelper.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FTNNHTTPLogHelper.cpp FTNNHTTPLogHelperDlg.cpp
+         FTNNHTTPLogHelper.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         FTNNHTTPLogHelperDlg.cpp
+       Link:
+         C:\Program Files (x86)\PC配置文件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2013\Projects\FTNNHTTPLogHelper\Debug\FTNNHTTPLogHelper.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\PC配置文件\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\admin\documents\visual studio 2013\Projects\FTNNHTTPLogHelper\Debug\FTNNHTTPLogHelper.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2013\Projects\FTNNHTTPLogHelper\Debug\FTNNHTTPLogHelper.lib" /MACHINE:X86 Debug\FTNNHTTPLogHelper.res
+         Debug\FTNNHTTPLogHelper.obj
+         Debug\FTNNHTTPLogHelperDlg.obj
+         Debug\stdafx.obj
+         FTNNHTTPLogHelper.vcxproj -> c:\users\admin\documents\visual studio 2013\Projects\FTNNHTTPLogHelper\Debug\FTNNHTTPLogHelper.exe
+     1>已完成生成项目“c:\Users\admin\documents\visual studio 2013\Projects\FTNNHTTPLogHelper\FTNNHTTPLogHelper\FTNNHTTPLogHelper.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.85
